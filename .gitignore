@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/WcfIPCTest/v14
+/WcfIPCTestClient/bin
+/WcfIPCTestClient/obj/Debug
+/WcfIPCTestClient/obj/Release
+/WcfIPCTestServer
