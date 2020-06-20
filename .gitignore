@@ -7,3 +7,4 @@
 /WcfIPCTestClient/obj/Debug
 /WcfIPCTestClient/obj/Release
 /WcfIPCTestServer
+*.suo
